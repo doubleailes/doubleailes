@@ -49,7 +49,7 @@ I start as a compositing artist in London, a little bit of mattepainting, then i
 
 ## Hobbies
 
-I'm a big fan of [central texas style BBQ](https://www.instagram.com/fireandfurybbq/), spirits, [Urbex](https://www.360cities.net/profile/doubleailes). I used to was into [photography](https://www.flickr.com/photos/doubleailes/) but i don't have time anymore.
+I'm a big fan of [central texas style BBQ](https://www.instagram.com/fireandfurybbq/), spirits, [Urbex](https://www.360cities.net/profile/doubleailes)(my profile picture was shot in a municipal pool). I used to was into [photography](https://www.flickr.com/photos/doubleailes/) but i don't have time anymore.
 
 ### Central texas style BBQ
 
