@@ -53,7 +53,7 @@ I'm a big fan of [central texas style BBQ](https://www.instagram.com/fireandfury
 
 ### Central texas style BBQ
 
-I was always interested in smoky flavor. I smoke cigars but not so much and peated whisky. In 2014 in Paris opned the first texan bbq joint. This place was the only reconize texan bbq outside of texas, **The Beast**. [Crazy stories about this restaurant](https://www.texasmonthly.com/bbq/the-beast/), [New York Times](http://www.nytimes.com/interactive/2015/08/23/travel/paris-restaurants-barbecue.html), [Whasinghton Post](https://www.washingtonpost.com/lifestyle/food/move-over-foie-gras-the-latest-rage-in-paris-is--classic-american-barbecue/2016/01/15/1b3ff700-ba52-11e5-829c-26ffb874a18d_story.html) I started to be friend with the [owner, Thomas](https://www.texasmonthly.com/bbq/interview-thomas-abramowicz-of-the-beast/). But sadly **The Beast** closed during COVID and i was part of his friends who helped him to remove the last furniture.
+I was always interested in smoky flavor. I smoke cigars but not so much and peated whisky. In 2014 in Paris opend the first texan bbq joint. This place was the only reconize texan bbq outside of texas, **The Beast**. [Crazy stories about this restaurant](https://www.texasmonthly.com/bbq/the-beast/), [New York Times](http://www.nytimes.com/interactive/2015/08/23/travel/paris-restaurants-barbecue.html), [Whasinghton Post](https://www.washingtonpost.com/lifestyle/food/move-over-foie-gras-the-latest-rage-in-paris-is--classic-american-barbecue/2016/01/15/1b3ff700-ba52-11e5-829c-26ffb874a18d_story.html) I started to be friend with the [owner, Thomas](https://www.texasmonthly.com/bbq/interview-thomas-abramowicz-of-the-beast/). But sadly **The Beast** closed during COVID and i was part of his friends who helped him to remove the last furniture.
 So in 2020 my girlfriend offer me a big green egg to start bbq by myself. After a couple of years i bought in 2023 my first offset smoker from Texas, a mill scale 94 Gallon built in Lockhart, TX.
 
 Central texas style is defined by 3 things:
@@ -61,11 +61,13 @@ Central texas style is defined by 3 things:
 - Post oak wood
 - Low and slow
 
-There is no post oak in France so use [ashwood](https://en.wikipedia.org/wiki/Fraxinus) from my family wood and so start to plant my own trees.
+There is no post oak in France so use [ashwood](https://en.wikipedia.org/wiki/Fraxinus) from my family wood and i'll start to plant my own trees.
 
-I read a lots of book about it. The major one is: Aaron Franklin, smoke.
+[What is the Best Wood for Smoking Meat?](https://www.chadsbbq.com/what-is-the-best-wood-for-smoking-meat-part-2/)
 
-I'm now cooking for friends and family and i'm very happy to share my passion with them.
+I read a lots of book about it. The major one is: [Aaron Franklin, smoke.](https://www.amazon.fr/Franklin-Smoke-Wood-Fire-Cookbook/dp/1984860488)
+
+I'm now cooking for friends and family and i'm very glad to share my passion with them.
 
 Anytime i'm traveling, i try to visit bbq joint. I visited:
 - [Hometown BBQ](https://www.hometownbbq.com/) in Brooklyn, NY
