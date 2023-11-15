@@ -38,7 +38,7 @@ My latest one is [rusty-cookie](https://github.com/doubleailes/cookiecutter-rust
 
 ### Moana Island
 
-In 2018, with the help of Tcherno, Vincent Debellis, Djl and Benjamin Legros. I was the first one to re-assembly the Moana Island scene from Disney as far as i know.
+In 2018, with the help of Tcherno, Vincent Debellis, Djl and [Benjamin Legros](https://github.com/BenMercenaries). We were the first one to re-assembly the Moana Island scene from Disney as far as i know.
 
 ![Moana Island](https://pbs.twimg.com/media/DlmFMdfX0AAwUyb?format=jpg&name=large)
 
