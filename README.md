@@ -9,7 +9,7 @@ I'm fluent in English, French, python. I know a little bit of Japanase and Espa√
 ## Projects
 
 ### framels
-[fls](https://github.com/forticheprod/fls) project is intent to deliver a ls command inspired by bls from Buf Compagnie or more recently rvls from RV.
+[fls](https://github.com/forticheprod/fls) project is intent to deliver a `ls` command inspired by `bls` from Buf Compagnie or more recently `rvls` from **RV**.
 
 Here is an exemple of the usage of my fls library:
 
