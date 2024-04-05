@@ -4,7 +4,7 @@ I'm Philippe Llerena, Fortiche's CTO. I'm working in VFX and Animation industry 
 
 ## Languages
 
-I'm fluent in English, French, python. I know a little bit of Japanase and Español. I started developpement in basic with my dad's casio and latter my T.I 89. I learn java at college but i forgot everything. During covid i started Rust because of a joke with [Paul](https://github.com/pypoulp) and hit the [GIL](https://en.wikipedia.org/wiki/Global_interpreter_lock). I'm now learning Rust and i'm very happy with it. Here some of my rust project: [quiet-stroll](https://github.com/forticheprod/quiet-stroll), [fls](https://github.com/forticheprod/fls), [salon prob](https://github.com/doubleailes/salon_prob)
+I'm fluent in English, French, python. I know a little bit of Japanase and Español. I started developpement in basic with my dad's casio and latter my T.I 89. I learn java at college but i forgot everything. During covid i started Rust because of a joke with [Paul](https://github.com/pypoulp) and hit the [GIL](https://en.wikipedia.org/wiki/Global_interpreter_lock). I'm now learning Rust and i'm very happy with it. Here some of my rust project: [quiet-stroll](https://github.com/forticheprod/quiet-stroll), [fls](https://github.com/forticheprod/fls),[girolle](https://github.com/doubleailes/girolle)
 
 ## Projects
 
