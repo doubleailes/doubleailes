@@ -11,6 +11,8 @@ I'm fluent in English, French, python. I know a little bit of Japanase and Espa√
 ### framels
 [fls](https://github.com/forticheprod/fls) project is intent to deliver a `ls` command inspired by `bls` from Buf Compagnie or more recently `rvls` from **RV**.
 
+![cliexample](https://github.com/forticheprod/fls/blob/main/images/fls_demo.gif)
+
 Here is an exemple of the usage of my fls library:
 
 ```bash
