@@ -82,6 +82,7 @@ Anytime i'm traveling, i try to visit bbq joint. I visited:
 - [Moo's Craft BBQ](https://www.mooscraftbarbecue.com/) in Los Angeles, CA
 - [Horse Thief BBQ](https://www.horsethiefbbq.com/) in Los Angeles, CA
 - [Smokestack](https://www.smokestak.co.uk/) in London, UK
+- [Heritage BBQ](https://www.heritagecraftbbq.com) in Los Angeles, CA.
 
 ## Contact
 
