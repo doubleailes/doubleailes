@@ -55,7 +55,9 @@ I start as a compositing artist in London, a little bit of mattepainting, then i
 
 ### Talks
 
-I gave a couple of talks in the past, here is the list:
+I gave a couple of talks in the past. I love to share my knowledge and experience with the community. I think it's important to give back to the community that helped me grow. Thanks to all my co-speakers and the organizers of these events for their support and collaboration.
+Here is a list of my talks or panels:
+
 
 #### 2019
 
