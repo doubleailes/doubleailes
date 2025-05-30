@@ -53,6 +53,41 @@ In 2018, with the help of Tcherno, Vincent Debellis, Djl and [Benjamin Legros](h
 
 I start as a compositing artist in London, a little bit of mattepainting, then i switch to pipeline TD. I worked at [Mercenaries Engenering](https://github.com/MercenariesEngineering) with [Benjamin Legros](https://github.com/BenMercenaries) and [Cyril Corvazier](https://github.com/hulud75). I had the chance to work on wonderfull project like [Nomand Land](https://www.imdb.com/title/tt9770150/). I'm now CTO at Fortiche Prod. I met a lot of peple in this industry and i'm very glad to work with them.
 
+### Talks
+
+I gave a couple of talks in the past, here is the list:
+
+#### 2019
+
+- [CGWIRE #1(FR)](https://diplomeo.com/actualite-meetup_1_films_d_animation_quelle_organisation)
+
+#### 2020
+
+- [PIDS 2020(FR)](https://youtu.be/MQuoRxaoSN4?si=fY94qDCJVpC8G6UY) - GPU vs CPU, quel rendu pour quel image ?
+- [CGWIRE #3(FR)](https://youtu.be/B2Pc-Fx2TUM?si=g_iFlRsRRiwT9jEl) - Le coût financier et humain de la render farm
+
+#### 2021
+
+- [CGWIRE #8(FR)](https://www.youtube.com/live/CXyxaXGsjfQ?si=9RoKXMhN5Be5L_QV) - Meetup special Fortiche
+
+#### 2022
+
+- [PIDS 2022(FR)](https://youtu.be/aE4yVaMqOH4?si=zZP8ZIaC9KxYCSt8) - Études de cas animation: Arcane par Fortiche
+- [FMX 2022(ENG)](https://fmx.de/en/history/fmx-2022/detail/event/23305) - ARCANE: A Potpourri of Fortiche
+- [RAF 2022(FR)](https://youtu.be/Q_CMxj_6oKI?si=ptBODRQAa7VLhj7V) - Recruter et former les ITs pour les studios d'animation
+
+#### 2023
+
+- [SIGGRAPH 2023(ENG)](https://dl.acm.org/doi/10.1145/3577023.3585274) - Fortiche : Crafting the BridgeNE: A Potpourri of Fortiche
+
+#### 2024
+
+- [SIGGRAPH ASIA 2024(ENG)](https://asia.siggraph.org/2024/program/key-speakers/) - The (Hex)tech of Arcane Season 02
+
+#### 2025
+
+- [FMX 2025(ENG)](https://fmx.de/en/program/program-2025/detail/event/32906) - The (Hex)tech of Arcane Season 02
+
 ## Hobbies
 
 I'm a big fan of [central texas style BBQ](https://www.instagram.com/fireandfurybbq/), spirits, [Urbex](https://www.360cities.net/profile/doubleailes)(my profile picture was shot in a municipal pool). I used to was into [photography](https://www.flickr.com/photos/doubleailes/) but i don't have time anymore.
