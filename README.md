@@ -89,6 +89,7 @@ Here is a list of my talks or panels:
 #### 2025
 
 - [PIDS 2025(FR)](https://www.pids-enghien.fr/prog2025-24janv/) - The (Hex)Tech of Arcane Season 2
+- [ANIMA 2025(ENG)](https://www.flagey.be/en/activity/12214-arcane-season-2-behind-the-scenes-futuranima-12) - The (Hex)tech of Arcane Season 02
 - [FMX 2025(ENG)](https://fmx.de/en/program/program-2025/detail/event/32906) - The (Hex)tech of Arcane Season 02
 - [DEVOXX 2025(FR)](https://youtu.be/ekM8V_u_uD4?si=-1yUH2C--KO4mS9k) - Arcane: Quand la technologie n’est pas le produit: une série d’animation
 
