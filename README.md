@@ -12,6 +12,13 @@ It all started during COVID with a joke with [Paul](https://github.com/pypoulp) 
 - **[ptex-rs](https://github.com/doubleailes/ptex-rs)**: Ptex, but crab-shaped.
 - **[openqmc-rs](https://github.com/doubleailes/openqmc-rs)**: a faithful port of ASWF's [openqmc](https://github.com/AcademySoftwareFoundation/openqmc). Sobol, lattice and PMJ samplers, plus blue noise, because random is overrated.
 
+## Off the grid: Reticulum
+
+When I'm not rendering things, I'm sending messages without the internet. [Reticulum](https://reticulum.network/) is a networking stack for resilient, encrypted mesh networks that run over LoRa, packet radio, Wi-Fi or whatever wire you have lying around. LXMF is its messaging layer. Naturally, I'm bringing Rust to the party:
+
+- **[LXMF-rs](https://github.com/doubleailes/LXMF-rs)**: an LXMF implementation in Rust.
+- **[foxhole](https://github.com/doubleailes/foxhole)**: a terminal LXMF client in Rust, built on the wonderful work of Ratspeak. Chatting over radio, from your terminal, like it's 1994 but encrypted.
+
 ## Places I've talked too much
 
 I love sharing what we break and fix along the way. The highlights:
