@@ -21,9 +21,9 @@ When I'm not rendering things, I'm sending messages without the internet. [Retic
 
 ## SIGINT, a little
 
-Turns out cars won't stop talking. Their tire pressure sensors broadcast over the air all day long, and I like listening in.
+Turns out cars won't stop talking. Every modern car has four tiny radios in its wheels, shouting their pressure and temperature at 433 MHz about once a minute. I like listening in.
 
-- **[tpms-sniffer](https://github.com/doubleailes/tpms-sniffer)**: a Rust TPMS sniffer for picking up those tire sensor broadcasts, OSINT-style.
+- **[tpms-sniffer](https://github.com/doubleailes/tpms-sniffer)**: a passive TPMS tracking and fingerprinting toolkit in Rust, running on a Raspberry Pi with an RTL-SDR. It decodes 25 sensor protocols (ported from [rtl_433](https://github.com/merbanan/rtl_433)), groups tyres into cars, and still recognizes sensors that rotate their IDs on every packet, using pressure, timing habits and crystal oscillator jitter. It's the groundwork for a white paper on passive vehicle re-identification. It never transmits a single bit.
 
 ## Places I've talked too much
 
