@@ -19,6 +19,12 @@ When I'm not rendering things, I'm sending messages without the internet. [Retic
 - **[LXMF-rs](https://github.com/doubleailes/LXMF-rs)**: an LXMF implementation in Rust.
 - **[foxhole](https://github.com/doubleailes/foxhole)**: a terminal LXMF client in Rust, built on the wonderful work of Ratspeak. Chatting over radio, from your terminal, like it's 1994 but encrypted.
 
+## SIGINT, a little
+
+Turns out cars won't stop talking. Their tire pressure sensors broadcast over the air all day long, and I like listening in.
+
+- **[tpms-sniffer](https://github.com/doubleailes/tpms-sniffer)**: a Rust TPMS sniffer for picking up those tire sensor broadcasts, OSINT-style.
+
 ## Places I've talked too much
 
 I love sharing what we break and fix along the way. The highlights:
