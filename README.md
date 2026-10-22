@@ -7,6 +7,8 @@ I'm Philippe, CTO at [Fortiche Prod](https://www.forticheprod.com/). Yep, the **
 It all started during COVID with a joke with [Paul](https://github.com/pypoulp) and one too many fights with the [GIL](https://en.wikipedia.org/wiki/Global_interpreter_lock). Now I can't stop porting things to Rust. Everything here is a work in progress, so expect sharp edges:
 
 - **[crust-render](https://github.com/doubleailes/crust-render)**: a path tracer in safe Rust that reads USD natively. The goal is to render Moana Island and ALab without crying. MaterialX, OpenPBR and MIS are all in there.
+
+  ![Moana Island rendered with crust-render](https://github.com/doubleailes/crust-render/raw/main/images/moana_island_full.png)
 - **[ocio-rs](https://github.com/doubleailes/ocio-rs)**: OpenColorIO, but make it Rust.
 - **[OpenSubdiv-rs](https://github.com/doubleailes/OpenSubdiv-rs)**: subdivision surfaces, still oxidizing.
 - **[ptex-rs](https://github.com/doubleailes/ptex-rs)**: Ptex, but crab-shaped.
